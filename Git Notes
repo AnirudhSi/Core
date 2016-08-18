@@ -1,0 +1,5 @@
+Git Notes 
+
+To clone a single branch:
+
+git clone https://github.com/example/example1.git -b branch_name --single-branch local_name
