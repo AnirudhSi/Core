@@ -3,3 +3,6 @@ Git Notes
 To clone a single branch:
 
 git clone https://github.com/example/example1.git -b branch_name --single-branch local_name
+
+
+C:\Users\asivapurapu\Documents\GitHub\ChangeOne\ChangeOne [ChangeOne ≡ +1 ~0 -0 | +0 ~1 -0 !]>
